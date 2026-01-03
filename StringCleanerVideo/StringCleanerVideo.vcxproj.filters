@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="StringScanner.hpp" />
+    <ClInclude Include="ProcessUtils.hpp" />
+    <ClInclude Include="StringCleaner.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="StringScanner.cpp" />
+    <ClCompile Include="ProcessUtils.cpp" />
+    <ClCompile Include="StringCleaner.cpp" />
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+</Project>
